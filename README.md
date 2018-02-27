@@ -1,4 +1,4 @@
-# Android---Light-Sensor
+# Android : Light-Sensor
 
 # What does it do?
 
